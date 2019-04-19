@@ -243,7 +243,7 @@ These version are not stable and this should be considered for advanced users on
 - **Fade Distance**: Allows to configure the distance at which the chaperone bounds are shown. When set to 0 chaperone bounds are completely invisible.
 - **Height**: Allows to configure the height of the chaperone bounds. **(Temporarily disabled pending integration into new motion system.)**
 - **Center Marker**: Displays a marker that represents the center of the playspace.
-- **Play Space Maker**: Displays the outlines of the rectangle representing the playspace.
+- **Play Space Marker**: Displays the outlines of the rectangle representing the playspace.
 - **Force Bounds**: Force chaperone bounds always on.
 - **Disable Chaperone**: Disables Chaperone by setting fade distance to 0.0.
 - **Proximity Warning Settings**: Opens a page that allows to configure several warning methods for when the user comes too close to the chaperone bounds.
